@@ -1,10 +1,13 @@
 const CONFIG = {
     titleWeb: "Tran Huy",
     introTitle: 'Nguyen Van B',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `La bàn chỉ hướng bắc
+    
+Xong lại chỉ hướng nam
+
+Tớ chỉ hướng về cậu
+
+Thứ khác tớ không ham.`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
